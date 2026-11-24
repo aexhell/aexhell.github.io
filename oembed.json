@@ -1,0 +1,13 @@
+{
+   "type": "rich",
+   "version": "1.0",
+   "title": "Song Title",
+   "provider_name": "FxSpotify",
+   "provider_url": "https://fxspotify.com/",
+   "author_name": "Artist, Artist2",
+   "author_url": "https://open.spotify.com/artist/artist1",
+   "width": 640,
+   "height": 640,
+   "thumbnail_url": "/portrait.webp",
+   "html": ""
+}
